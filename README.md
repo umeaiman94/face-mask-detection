@@ -33,4 +33,6 @@ mask_detection.ipynb
 
 ## Result
 Model classifies faces as **Mask** or **No Mask** with confidence percentage.
+## Demo
+<img width="1472" height="1472" alt="demo" src="https://github.com/user-attachments/assets/a9618df3-52a4-46eb-9a5d-78091f509ef5" />
 
