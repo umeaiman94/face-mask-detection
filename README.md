@@ -18,6 +18,12 @@ Real-time face mask detection system built with a custom CNN trained from scratc
 - NumPy
 
 ## Project Structure
+dataset/
+  with_mask/
+  without_mask/
+mask_detector.keras
+mask_detection.ipynb
+> Note: Dataset not included. Collect your own using the webcam cells in the notebook.
 ## How to Run
 1. Open the `.ipynb` file in Google Colab
 2. Run all cells in order
